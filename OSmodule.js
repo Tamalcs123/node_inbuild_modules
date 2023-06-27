@@ -1,5 +1,5 @@
-/* OS module is an inbuild module of node js module that helps to get information about our 
-   OS specification such as system architecture, network interfaces, system specificaions of
+/* OS module is an inbuilt module of node js that helps to get information about our 
+   OS specifications such as system architecture, network interfaces, system specifications of
    CPU*/
 
 const os=require('os');
